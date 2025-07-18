@@ -34,7 +34,8 @@ A beginner-friendly full-stack e-commerce application built with **Spring Boot**
 
 | Page | Screenshot |
 |------|------------|
-| Home Page | ![Home](screenshots/home.png) |
+| Login | ![Home](screenshots/login.png) |
+| Login | ![Home](screenshots/register.png) |
 | Product Listing | ![Products](screenshots/products.png) |
 | Cart Page | ![Cart](screenshots/cart.png) |
 | Order History | ![Orders](screenshots/orders.png) |
